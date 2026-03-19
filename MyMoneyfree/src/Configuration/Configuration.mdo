@@ -44,12 +44,13 @@
   <commonPictures>CommonPicture.ПодсистемаСобытия</commonPictures>
   <commonPictures>CommonPicture.ПодсистемаФинансы</commonPictures>
   <constants>Constant.DemoConfDT</constants>
+  <catalogs>Catalog.СправочникВасилий</catalogs>
   <catalogs>Catalog.ВидыКонтактов</catalogs>
   <catalogs>Catalog.СтатусыДрузей</catalogs>
   <catalogs>Catalog.Друзья</catalogs>
   <catalogs>Catalog.СтатусыСобытий</catalogs>
   <catalogs>Catalog.События</catalogs>
-  <catalogs>Catalog.СправочникВасилий</catalogs>
+  <catalogs>Catalog.DemoConfDT</catalogs>
   <documents>Document.ПоступлениеДенег</documents>
   <documents>Document.РасходДенег</documents>
   <documents>Document.ДокументВасилий</documents>
