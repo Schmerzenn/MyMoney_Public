@@ -52,6 +52,7 @@
   <catalogs>Catalog.СправочникВасилий</catalogs>
   <documents>Document.ПоступлениеДенег</documents>
   <documents>Document.РасходДенег</documents>
+  <documents>Document.ДокументВасилий</documents>
   <enums>Enum.Пол</enums>
   <reports>Report.Затраты</reports>
   <reports>Report.СколькоДенег</reports>
